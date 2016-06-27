@@ -1,1 +1,1 @@
-# Change-Values-in-js
+# Change Values in js on chaning input values.
